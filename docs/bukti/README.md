@@ -49,71 +49,66 @@ Buka aplikasi di `http://localhost:8000`.
 | **Siswa** | `siswa123` | PIN: `1234` | `/siswa/login` |
 | **Orang Tua** | Daftar via `/wali/register` | password pilihan | `/wali/login` |
 
-## 3. Pendaftaran Siswa Baru
+### 3 Pendaftaran Siswa Baru
 
-| Bukti | Berkas yang tersedia | Status / catatan |
-|-------|----------------------|------------------|
-| Halaman utama | [Smart EduHub.png](<Screenshot/Smart EduHub.png>), [Smart EduHub (1).png](<Screenshot/Smart EduHub (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Formulir pendaftaran | [Pendaftaran Siswa Baru - Smart Axioo.png](<Screenshot/Pendaftaran Siswa Baru - Smart Axioo.png>), [Pendaftaran Siswa Baru - Smart Axioo (1).png](<Screenshot/Pendaftaran Siswa Baru - Smart Axioo (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Pelacakan/proses pendaftaran | [Proses Pendaftaran - Smart Axioo.png](<Screenshot/Proses Pendaftaran - Smart Axioo.png>), [Proses Pendaftaran - Smart Axioo (1).png](<Screenshot/Proses Pendaftaran - Smart Axioo (1).png>) | ✅ Ada — bukti tampilan proses; belum membuktikan hasil diterima/ditolak |
-| Daftar pendaftaran di admin | [Smart Edu Hub - Student Registrations.png](<Screenshot/Smart Edu Hub - Student Registrations.png>), [Smart Edu Hub - Student Registrations (1).png](<Screenshot/Smart Edu Hub - Student Registrations (1).png>) | ✅ Ada |
+| Bukti | Tangkapan Layar |
+|-------|-----------------|
+| Halaman utama | ![Smart EduHub.png](<Screenshot/Smart EduHub.png>) ![Smart EduHub (1).png](<Screenshot/Smart EduHub (1).png>) |
+| Formulir pendaftaran | ![Pendaftaran Siswa Baru - Smart Axioo.png](<Screenshot/Pendaftaran Siswa Baru - Smart Axioo.png>) ![Pendaftaran Siswa Baru - Smart Axioo (1).png](<Screenshot/Pendaftaran Siswa Baru - Smart Axioo (1).png>) |
+| Pelacakan/proses pendaftaran | ![Proses Pendaftaran - Smart Axioo.png](<Screenshot/Proses Pendaftaran - Smart Axioo.png>) ![Proses Pendaftaran - Smart Axioo (1).png](<Screenshot/Proses Pendaftaran - Smart Axioo (1).png>) |
+| Daftar pendaftaran di admin | ![Smart Edu Hub - Student Registrations.png](<Screenshot/Smart Edu Hub - Student Registrations.png>) ![Smart Edu Hub - Student Registrations (1).png](<Screenshot/Smart Edu Hub - Student Registrations (1).png>) |
 
+### 4 Portal Siswa dan E-Learning
 
-## 4. Portal Siswa dan E-Learning
+| Bukti | Tangkapan Layar |
+|-------|-----------------|
+| Login siswa | ![Login Siswa - Smart EduHub.png](<Screenshot/Login Siswa - Smart EduHub.png>) ![Login Siswa - Smart EduHub (1).png](<Screenshot/Login Siswa - Smart EduHub (1).png>) |
+| Dashboard siswa | ![Dashboard Siswa - Smart Edu Hub.png](<Screenshot/Dashboard Siswa - Smart Edu Hub.png>) ![Dashboard Siswa - Smart Edu Hub (1).png](<Screenshot/Dashboard Siswa - Smart Edu Hub (1).png>) |
+| Kursus siswa | ![Kursus Saya - Smart Edu Hub.png](<Screenshot/Kursus Saya - Smart Edu Hub.png>) |
+| Modul dan materi | ![Modul & Materi - Smart Edu Hub.png](<Screenshot/Modul & Materi - Smart Edu Hub.png>) |
+| Keuangan siswa | ![Keuangan - Smart Edu Hub.png](<Screenshot/Keuangan - Smart Edu Hub.png>) ![Keuangan - Smart Edu Hub (1).png](<Screenshot/Keuangan - Smart Edu Hub (1).png>) |
+| Transfer saldo | ![Transfer Saldo - Smart Edu Hub.png](<Screenshot/Transfer Saldo - Smart Edu Hub.png>) ![Transfer Saldo - Smart Edu Hub (1).png](<Screenshot/Transfer Saldo - Smart Edu Hub (1).png>) |
 
-| Bukti | Berkas yang tersedia | Status / catatan |
-|-------|----------------------|------------------|
-| Login siswa | [Login Siswa - Smart EduHub.png](<Screenshot/Login Siswa - Smart EduHub.png>), [Login Siswa - Smart EduHub (1).png](<Screenshot/Login Siswa - Smart EduHub (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Dashboard siswa | [Dashboard Siswa - Smart Edu Hub.png](<Screenshot/Dashboard Siswa - Smart Edu Hub.png>), [Dashboard Siswa - Smart Edu Hub (1).png](<Screenshot/Dashboard Siswa - Smart Edu Hub (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Kursus siswa | [Kursus Saya - Smart Edu Hub.png](<Screenshot/Kursus Saya - Smart Edu Hub.png>) | ✅ Ada |
-| Modul dan materi | [Modul & Materi - Smart Edu Hub.png](<Screenshot/Modul & Materi - Smart Edu Hub.png>) | ✅ Ada |
-| Keuangan siswa | [Keuangan - Smart Edu Hub.png](<Screenshot/Keuangan - Smart Edu Hub.png>), [Keuangan - Smart Edu Hub (1).png](<Screenshot/Keuangan - Smart Edu Hub (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Transfer saldo | [Transfer Saldo - Smart Edu Hub.png](<Screenshot/Transfer Saldo - Smart Edu Hub.png>), [Transfer Saldo - Smart Edu Hub (1).png](<Screenshot/Transfer Saldo - Smart Edu Hub (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Ujian online dan hasil ujian | — | ⬜ Belum ada bukti |
+### 5 Absensi QR Code
 
-## 5. Absensi
+| Bukti | Tangkapan Layar |
+|-------|-----------------|
+| Terminal absensi | ![Attendance Terminal - Smart Axioo.png](<Screenshot/Attendance Terminal - Smart Axioo.png>) |
+| Kartu siswa dengan QR | ![Cetak Kartu Siswa - Smart Edu Hub.png](<Screenshot/Cetak Kartu Siswa - Smart Edu Hub.png>) |
+| Laporan absensi bulanan | ![Smart Edu Hub - Laporan Absensi Bulanan.png](<Screenshot/Smart Edu Hub - Laporan Absensi Bulanan.png>) ![Smart Edu Hub - Laporan Absensi Bulanan (1).png](<Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) ![Smart Edu Hub - Laporan Absensi Bulanan (2).png](<Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>) |
 
-| Bukti | Berkas yang tersedia | Status / catatan |
-|-------|----------------------|------------------|
-| Terminal absensi | [Attendance Terminal - Smart Axioo.png](<Screenshot/Attendance Terminal - Smart Axioo.png>) | ✅ Ada — tampilan terminal/scanner |
-| Kartu siswa dengan QR | [Cetak Kartu Siswa - Smart Edu Hub.png](<Screenshot/Cetak Kartu Siswa - Smart Edu Hub.png>) | ✅ Ada |
-| Laporan absensi bulanan | [Smart Edu Hub - Laporan Absensi Bulanan.png](<Screenshot/Smart Edu Hub - Laporan Absensi Bulanan.png>), [Smart Edu Hub - Laporan Absensi Bulanan (1).png](<Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>), [Smart Edu Hub - Laporan Absensi Bulanan (2).png](<Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>) | ✅ Ada — tiga berkas |
-| Hasil scan yang menunjukkan absensi berhasil | — | ⬜ Belum ada bukti yang dapat diidentifikasi dari nama berkas |
+### 6 Portal Orang Tua/Wali
 
-## 6. Portal Orang Tua/Wali
+| Bukti | Tangkapan Layar |
+|-------|-----------------|
+| Login wali | ![Login Wali Murid - Smart EduHub.png](<Screenshot/Login Wali Murid - Smart EduHub.png>) |
+| Dashboard wali | ![Dashboard Wali Murid - Smart Edu Hub.png](<Screenshot/Dashboard Wali Murid - Smart Edu Hub.png>) ![Dashboard Wali Murid - Smart Edu Hub (1).png](<Screenshot/Dashboard Wali Murid - Smart Edu Hub (1).png>) |
+| Presensi anak | ![Presensi Anak - Smart Edu Hub.png](<Screenshot/Presensi Anak - Smart Edu Hub.png>) ![Presensi Anak - Smart Edu Hub (1).png](<Screenshot/Presensi Anak - Smart Edu Hub (1).png>) |
 
-| Bukti | Berkas yang tersedia | Status / catatan |
-|-------|----------------------|------------------|
-| Login wali | [Login Wali Murid - Smart EduHub.png](<Screenshot/Login Wali Murid - Smart EduHub.png>) | ✅ Ada |
-| Dashboard wali | [Dashboard Wali Murid - Smart Edu Hub.png](<Screenshot/Dashboard Wali Murid - Smart Edu Hub.png>), [Dashboard Wali Murid - Smart Edu Hub (1).png](<Screenshot/Dashboard Wali Murid - Smart Edu Hub (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Presensi anak | [Presensi Anak - Smart Edu Hub.png](<Screenshot/Presensi Anak - Smart Edu Hub.png>), [Presensi Anak - Smart Edu Hub (1).png](<Screenshot/Presensi Anak - Smart Edu Hub (1).png>) | ✅ Ada — dua ukuran tangkapan |
+### 7 Modul Keuangan
 
-## 7. Modul Keuangan
+| Bukti | Tangkapan Layar |
+|-------|-----------------|
+| Dashboard keuangan | ![Smart Edu Hub -.png](<Screenshot/Smart Edu Hub -.png>) ![Smart Edu Hub - (1).png](<Screenshot/Smart Edu Hub - (1).png>) |
+| Pengajuan kartu | ![Smart Edu Hub - Pengajuan Kartu.png](<Screenshot/Smart Edu Hub - Pengajuan Kartu.png>) ![Smart Edu Hub - Pengajuan Kartu (1).png](<Screenshot/Smart Edu Hub - Pengajuan Kartu (1).png>) |
+| Daftar kartu | ![Smart Edu Hub - Daftar Kartu.png](<Screenshot/Smart Edu Hub - Daftar Kartu.png>) ![Smart Edu Hub - Daftar Kartu (1).png](<Screenshot/Smart Edu Hub - Daftar Kartu (1).png>) |
+| Rekap laporan keuangan | ![Smart Edu Hub - Rekap Laporan Keuangan.png](<Screenshot/Smart Edu Hub - Rekap Laporan Keuangan.png>) ![Smart Edu Hub - Rekap Laporan Keuangan (1).png](<Screenshot/Smart Edu Hub - Rekap Laporan Keuangan (1).png>) |
+| Bukti transaksi top-up | ![bukti_pembayaran.png](<Screenshot/bukti_pembayaran.png>) |
 
-| Bukti | Berkas yang tersedia | Status / catatan |
-|-------|----------------------|------------------|
-| Dashboard keuangan | [Smart Edu Hub -.png](<Screenshot/Smart Edu Hub -.png>), [Smart Edu Hub - (1).png](<Screenshot/Smart Edu Hub - (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Pengajuan kartu | [Smart Edu Hub - Pengajuan Kartu.png](<Screenshot/Smart Edu Hub - Pengajuan Kartu.png>), [Smart Edu Hub - Pengajuan Kartu (1).png](<Screenshot/Smart Edu Hub - Pengajuan Kartu (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Daftar kartu | [Smart Edu Hub - Daftar Kartu.png](<Screenshot/Smart Edu Hub - Daftar Kartu.png>), [Smart Edu Hub - Daftar Kartu (1).png](<Screenshot/Smart Edu Hub - Daftar Kartu (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Rekap laporan keuangan | [Smart Edu Hub - Rekap Laporan Keuangan.png](<Screenshot/Smart Edu Hub - Rekap Laporan Keuangan.png>), [Smart Edu Hub - Rekap Laporan Keuangan (1).png](<Screenshot/Smart Edu Hub - Rekap Laporan Keuangan (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Bukti transaksi top-up tertentu | — | ⬜ Belum ada bukti khusus yang dapat diidentifikasi |
+### 8 Dashboard Admin
 
-## 8. Dashboard Admin
-
-| Bukti | Berkas yang tersedia | Status / catatan |
-|-------|----------------------|------------------|
-| Data siswa | [Smart Edu Hub - Data Siswa.png](<Screenshot/Smart Edu Hub - Data Siswa.png>), [Smart Edu Hub - Data Siswa (1).png](<Screenshot/Smart Edu Hub - Data Siswa (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Manajemen user | [Smart Edu Hub - Management User.png](<Screenshot/Smart Edu Hub - Management User.png>), [Smart Edu Hub - Management User (1).png](<Screenshot/Smart Edu Hub - Management User (1).png>) | ✅ Ada — dua ukuran tangkapan |
-| Dashboard admin umum | — | ⬜ Belum ada bukti yang dapat diidentifikasi |
-
+| Bukti | Tangkapan Layar |
+|-------|-----------------|
+| Data siswa | ![Smart Edu Hub - Data Siswa.png](<Screenshot/Smart Edu Hub - Data Siswa.png>) ![Smart Edu Hub - Data Siswa (1).png](<Screenshot/Smart Edu Hub - Data Siswa (1).png>) |
+| Manajemen user | ![Smart Edu Hub - Management User.png](<Screenshot/Smart Edu Hub - Management User.png>) ![Smart Edu Hub - Management User (1).png](<Screenshot/Smart Edu Hub - Management User (1).png>) |
 ## 9. Bug Hunting
 
 Dua berkas berikut ada di folder bukti. Nama berkasnya tidak mengaitkan gambar dengan ID bug tertentu, sehingga tidak dianggap sebagai bukti untuk temuan tertentu tanpa pemeriksaan/penamaan tambahan.
 
 | Berkas | Status |
 |--------|--------|
-| [bug_hunt1.png](<Screenshot/bug_hunt1.png>) | ✅ Ada — bukti bug hunting, temuan belum dipetakan di dokumen ini |
-| [bug_hunt2.png](<Screenshot/bug_hunt2.png>) | ✅ Ada — bukti bug hunting, temuan belum dipetakan di dokumen ini |
+| ![bug_hunt1.png](<Screenshot/bug_hunt1.png>) | ✅ Ada — bukti bug hunting, temuan belum dipetakan di dokumen ini |
+| ![bug_hunt2.png](<Screenshot/bug_hunt2.png>) | ✅ Ada — bukti bug hunting, temuan belum dipetakan di dokumen ini |
 
 Screenshot bernama `bug01-*`, `bug02-*`, `bug03-*`, atau `bug06-*` yang sebelumnya direncanakan belum ditemukan di folder.
 
@@ -135,11 +130,11 @@ Belum ada berkas bernama khusus untuk membuktikan TopBar admin, bottom navigatio
 | Portal siswa dan e-learning | 10 | Bukti ujian online belum ada |
 | Absensi | 5 | Terminal, kartu, dan laporan tersedia; hasil scan berhasil belum teridentifikasi |
 | Portal orang tua/wali | 5 | Login, dashboard, dan presensi anak tersedia |
-| Modul keuangan | 8 | Dashboard, pengajuan, daftar kartu, dan rekap tersedia |
+| Modul keuangan | 9 | Dashboard, pengajuan, daftar kartu, rekap, dan bukti transaksi tersedia |
 | Dashboard admin | 4 | Data siswa dan manajemen user tersedia; dashboard umum belum ada |
 | Bug hunting | 2 | Berkas ada, tetapi belum dipetakan ke ID temuan |
 | Bukti pengujian | 0 | Screenshot hasil test belum ada |
-| **Total berkas di folder** | **42** | **40 screenshot fitur + 2 screenshot bug hunting** |
+| **Total berkas di folder** | **43** | **41 screenshot fitur + 2 screenshot bug hunting** |
 
 ### Prioritas bukti yang masih perlu dilengkapi
 
