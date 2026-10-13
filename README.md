@@ -194,7 +194,7 @@ Akun berikut dibuat otomatis melalui `DatabaseSeeder` dan `StudentSeeder`:
 | Peran | Username / Email | Password / PIN |
 |-------|------------------|----------------|
 | **Admin** | `admin@smartaxioo.com` (username: `admin`) | `password` |
-| **Siswa** | `siswa123` | PIN: `1234` |
+| **Siswa** | `siswa123` | PIN: `123456` |
 
 > Akun guru/staf (termasuk **Teller** dan **BUMS**) dapat dibuat oleh admin melalui menu **Management Users** setelah login sebagai admin. Pilih role `teller` atau `bums` saat membuat user. Akun orang tua/wali dapat didaftarkan sendiri melalui `/wali/register` atau dikelola admin di menu **Parents**.
 
