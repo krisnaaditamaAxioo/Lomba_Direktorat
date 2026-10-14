@@ -273,7 +273,7 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 - Laporan absensi bulanan
 
-  ![Laporan Absensi 1](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan.png>) ![Laporan Absensi 2](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) ![Laporan Absensi 3](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>)
+  ![Laporan Absensi 1](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) ![Laporan Absensi 2](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>)
 
 **Alur Orang Tua/Wali:**
 - Halaman login orang tua/wali
