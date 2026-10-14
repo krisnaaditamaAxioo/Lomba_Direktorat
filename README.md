@@ -283,7 +283,7 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-| ![Laporan Absensi Web](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan.png>)<br>![Laporan Absensi Web 2](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) | ![Laporan Absensi Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>) |
+| ![Laporan Absensi Web](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) | ![Laporan Absensi Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>) |
 
 **Alur Orang Tua/Wali:**
 - Halaman login orang tua/wali
