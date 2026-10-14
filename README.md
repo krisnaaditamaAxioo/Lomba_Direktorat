@@ -1,6 +1,6 @@
 # Smart EduHub — Sistem Informasi Sekolah (SIS)
 
-![logo](smart_eduhub/public/images/SEHlog.png)
+![logo](docs/bukti/logo/SEH.png)
 
 > **Tim Smart EduHUb** — Lomba Direktorat Jenderal Pendidikan Vokasi
 
