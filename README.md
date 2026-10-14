@@ -232,10 +232,14 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 **Alur Portal Siswa dan E-Learning:**
 - Halaman login siswa
 
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
   ![Login Siswa](<docs/bukti/Screenshot/Login Siswa - Smart EduHub.png>) ![Login Siswa 2](<docs/bukti/Screenshot/Login Siswa - Smart EduHub (1).png>)
 
 - Dashboard siswa
 
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
   ![Dashboard Siswa](<docs/bukti/Screenshot/Dashboard Siswa - Smart Edu Hub.png>) ![Dashboard Siswa 2](<docs/bukti/Screenshot/Dashboard Siswa - Smart Edu Hub (1).png>)
 
 - Halaman kursus siswa
