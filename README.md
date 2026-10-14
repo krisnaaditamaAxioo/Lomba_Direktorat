@@ -227,7 +227,9 @@ Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
 
 - Dashboard admin mengelola pendaftaran
 
-  ![Student Registrations](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations.png>) ![Student Registrations 2](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+  ![Student Registrations](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations.png>) | ![Student Registrations 2](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations (1).png>) |
 
 **Alur Portal Siswa dan E-Learning:**
 - Halaman login siswa
