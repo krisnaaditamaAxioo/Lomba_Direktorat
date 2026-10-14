@@ -217,7 +217,7 @@ Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
 
 | Tampilan Mobile | Tampilan Web |
 | :---: | :---: |
-  ![Formulir Pendaftaran](<docs/bukti/Screenshot/Pendaftaran Siswa Baru - Smart Axioo.png>) ![Formulir Pendaftaran 2](<docs/bukti/Screenshot/Pendaftaran Siswa Baru - Smart Axioo (1).png>)
+  ![Formulir Pendaftaran](<docs/bukti/Screenshot/Pendaftaran Siswa Baru - Smart Axioo.png>) | ![Formulir Pendaftaran 2](<docs/bukti/Screenshot/Pendaftaran Siswa Baru - Smart Axioo (1).png>) |
 
 - Halaman pelacakan / proses pendaftaran
 
