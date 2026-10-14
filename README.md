@@ -209,7 +209,7 @@ Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
 **Alur Pendaftaran Siswa Baru:**
 - Halaman utama Smart EduHub
 
- | Tampilan Web | Tampilan Mobile |
+| Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
 | ![Smart EduHub Web](docs/bukti/Screenshot/Smart%20EduHub.png) | ![Smart EduHub Mobile](docs/bukti/Screenshot/Smart%20EduHub%20(1).png) |
 
@@ -221,7 +221,9 @@ Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
 
 - Halaman pelacakan / proses pendaftaran
 
-  ![Proses Pendaftaran](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Axioo.png>) ![Proses Pendaftaran 2](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Axioo (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+   ![Proses Pendaftaran](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Axioo.png>) | ![Proses Pendaftaran 2](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Axioo (1).png>) |
 
 - Dashboard admin mengelola pendaftaran
 
