@@ -202,22 +202,20 @@ Akun berikut dibuat otomatis melalui `DatabaseSeeder` dan `StudentSeeder`:
 
 ## 4. Tangkapan Layar Alur Inti
 
-Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
-
-> Catatan: Karena README dibuat di luar sesi browser, silakan ambil tangkapan layar sendiri sesuai daftar di bawah dan simpan ke dalam folder `docs/bukti/` dengan nama file yang direkomendasikan.
+Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Screenshot/`.
 
 **Alur Pendaftaran Siswa Baru:**
 - Halaman utama Smart EduHub
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-| ![Smart EduHub Web](docs/bukti/Screenshot/Smart%20EduHub.png) | ![Smart EduHub Mobile](docs/bukti/Screenshot/Smart%20EduHub%20(1).png) |
+| ![Smart EduHub Web](<docs/bukti/Screenshot/Smart EduHub.png>) | ![Smart EduHub Mobile](<docs/bukti/Screenshot/Smart EduHub (1).png>) |
 
 - Formulir pendaftaran siswa baru
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-| ![Formulir Pendaftaran 1](docs/bukti/Screenshot/pendaftaran.png) | ![Formulir Pendaftaran 2](docs/bukti/Screenshot/pendaftaran-2.png) |
+| ![Formulir Pendaftaran Web](<docs/bukti/Screenshot/Pendaftaran Siswa Baru - Smart Edu Hub (1).png>) | ![Formulir Pendaftaran Mobile](<docs/bukti/Screenshot/Pendaftaran Siswa Baru - Smart Edu Hub.png>) |
 
 - Halaman pelacakan / proses pendaftaran
 
@@ -259,7 +257,7 @@ Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
 **Alur Absensi QR:**
 - Halaman terminal scan absensi QR code
 
-  ![Attendance Terminal](<docs/bukti/Screenshot/Attendance Terminal - Smart Axioo.png>)
+  ![Attendance Terminal](<docs/bukti/Screenshot/Attendance Terminal - Smart Edu Hub.png>)
 
 - Kartu siswa dengan QR
 
