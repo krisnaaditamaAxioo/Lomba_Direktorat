@@ -244,11 +244,15 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 - Halaman kursus siswa
 
-  ![Kursus Saya](<docs/bukti/Screenshot/Kursus Saya - Smart Edu Hub.png>)
+| Tampilan Web |
+| :---: |
+| ![Kursus Saya Web](<docs/bukti/Screenshot/Kursus Saya - Smart Edu Hub.png>) |
 
 - Halaman modul dan materi e-learning
 
-  ![Modul dan Materi](<docs/bukti/Screenshot/Modul & Materi - Smart Edu Hub.png>)
+| Tampilan Mobile |
+| :---: |
+| ![Modul dan Materi Mobile](<docs/bukti/Screenshot/Modul & Materi - Smart Edu Hub.png>) |
 
 - Halaman keuangan / dompet digital siswa
 
@@ -265,20 +269,28 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 **Alur Absensi QR:**
 - Halaman terminal scan absensi QR code
 
-  ![Attendance Terminal](<docs/bukti/Screenshot/Attendance Terminal - Smart Edu Hub.png>)
+| Tampilan Web |
+| :---: |
+| ![Attendance Terminal Web](<docs/bukti/Screenshot/Attendance Terminal - Smart Edu Hub.png>) |
 
 - Kartu siswa dengan QR
 
-  ![Kartu Siswa](<docs/bukti/Screenshot/Cetak Kartu Siswa - Smart Edu Hub.png>)
+| Tampilan Web |
+| :---: |
+| ![Kartu Siswa Web](<docs/bukti/Screenshot/Cetak Kartu Siswa - Smart Edu Hub.png>) |
 
 - Laporan absensi bulanan
 
-  ![Laporan Absensi 1](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) ![Laporan Absensi 2](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Laporan Absensi Web](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan.png>)<br>![Laporan Absensi Web 2](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (1).png>) | ![Laporan Absensi Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Laporan Absensi Bulanan (2).png>) |
 
 **Alur Orang Tua/Wali:**
 - Halaman login orang tua/wali
 
-  ![Login Wali](<docs/bukti/Screenshot/Login Wali Murid - Smart EduHub.png>)
+| Tampilan Web |
+| :---: |
+| ![Login Wali Web](<docs/bukti/Screenshot/Login Wali Murid - Smart EduHub.png>) |
 
 - Dashboard orang tua/wali
 
@@ -319,7 +331,9 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 - Bukti transaksi top-up
 
-  ![Bukti Pembayaran](<docs/bukti/Screenshot/bukti_pembayaran.png>)
+| Tampilan Mobile |
+| :---: |
+| ![Bukti Pembayaran Mobile](<docs/bukti/Screenshot/bukti_pembayaran.png>) |
 
 **Alur Dashboard Admin:**
 - Data siswa
