@@ -221,26 +221,26 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-   ![Proses Pendaftaran](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Edu Hub.png>) | ![Proses Pendaftaran 2](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Edu Hub (1).png>) |
+| ![Proses Pendaftaran Web](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Edu Hub.png>) | ![Proses Pendaftaran Mobile](<docs/bukti/Screenshot/Proses Pendaftaran - Smart Edu Hub (1).png>) |
 
 - Dashboard admin mengelola pendaftaran
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-  ![Student Registrations](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations.png>) | ![Student Registrations 2](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations (1).png>) |
+| ![Student Registrations Web](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations.png>) | ![Student Registrations Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Student Registrations (1).png>) |
 
 **Alur Portal Siswa dan E-Learning:**
 - Halaman login siswa
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-  ![Login Siswa](<docs/bukti/Screenshot/Login Siswa - Smart EduHub.png>) ![Login Siswa 2](<docs/bukti/Screenshot/Login Siswa - Smart EduHub (1).png>)
+| ![Login Siswa Web](<docs/bukti/Screenshot/Login Siswa - Smart EduHub (1).png>) | ![Login Siswa Mobile](<docs/bukti/Screenshot/Login Siswa - Smart EduHub.png>) |
 
 - Dashboard siswa
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-  ![Dashboard Siswa](<docs/bukti/Screenshot/Dashboard Siswa - Smart Edu Hub.png>) ![Dashboard Siswa 2](<docs/bukti/Screenshot/Dashboard Siswa - Smart Edu Hub (1).png>)
+| ![Dashboard Siswa Web](<docs/bukti/Screenshot/Dashboard Siswa - Smart Edu Hub.png>) | ![Dashboard Siswa Mobile](<docs/bukti/Screenshot/Dashboard Siswa - Smart Edu Hub (1).png>) |
 
 - Halaman kursus siswa
 
@@ -252,11 +252,15 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 - Halaman keuangan / dompet digital siswa
 
-  ![Keuangan Siswa](<docs/bukti/Screenshot/Keuangan - Smart Edu Hub.png>) ![Keuangan Siswa 2](<docs/bukti/Screenshot/Keuangan - Smart Edu Hub (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Keuangan Siswa Web](<docs/bukti/Screenshot/Keuangan - Smart Edu Hub.png>) | ![Keuangan Siswa Mobile](<docs/bukti/Screenshot/Keuangan - Smart Edu Hub (1).png>) |
 
 - Halaman transfer saldo
 
-  ![Transfer Saldo](<docs/bukti/Screenshot/Transfer Saldo - Smart Edu Hub.png>) ![Transfer Saldo 2](<docs/bukti/Screenshot/Transfer Saldo - Smart Edu Hub (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Transfer Saldo Web](<docs/bukti/Screenshot/Transfer Saldo - Smart Edu Hub (1).png>) | ![Transfer Saldo Mobile](<docs/bukti/Screenshot/Transfer Saldo - Smart Edu Hub.png>) |
 
 **Alur Absensi QR:**
 - Halaman terminal scan absensi QR code
@@ -278,28 +282,40 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 
 - Dashboard orang tua/wali
 
-  ![Dashboard Wali](<docs/bukti/Screenshot/Dashboard Wali Murid - Smart Edu Hub.png>) ![Dashboard Wali 2](<docs/bukti/Screenshot/Dashboard Wali Murid - Smart Edu Hub (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Dashboard Wali Web](<docs/bukti/Screenshot/Dashboard Wali Murid - Smart Edu Hub.png>) | ![Dashboard Wali Mobile](<docs/bukti/Screenshot/Dashboard Wali Murid - Smart Edu Hub (1).png>) |
 
 - Presensi anak
 
-  ![Presensi Anak](<docs/bukti/Screenshot/Presensi Anak - Smart Edu Hub.png>) ![Presensi Anak 2](<docs/bukti/Screenshot/Presensi Anak - Smart Edu Hub (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Presensi Anak Web](<docs/bukti/Screenshot/Presensi Anak - Smart Edu Hub (1).png>) | ![Presensi Anak Mobile](<docs/bukti/Screenshot/Presensi Anak - Smart Edu Hub.png>) |
 
 **Alur Modul Keuangan:**
 - Dashboard keuangan
 
-  ![Dashboard Keuangan](<docs/bukti/Screenshot/Smart Edu Hub -.png>) ![Dashboard Keuangan 2](<docs/bukti/Screenshot/Smart Edu Hub - (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Dashboard Keuangan Web](<docs/bukti/Screenshot/Smart Edu Hub - (1).png>) | ![Dashboard Keuangan Mobile](<docs/bukti/Screenshot/Smart Edu Hub -.png>) |
 
 - Pengajuan kartu
 
-  ![Pengajuan Kartu](<docs/bukti/Screenshot/Smart Edu Hub - Pengajuan Kartu.png>) ![Pengajuan Kartu 2](<docs/bukti/Screenshot/Smart Edu Hub - Pengajuan Kartu (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Pengajuan Kartu Web](<docs/bukti/Screenshot/Smart Edu Hub - Pengajuan Kartu.png>) | ![Pengajuan Kartu Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Pengajuan Kartu (1).png>) |
 
 - Daftar kartu
 
-  ![Daftar Kartu](<docs/bukti/Screenshot/Smart Edu Hub - Daftar Kartu.png>) ![Daftar Kartu 2](<docs/bukti/Screenshot/Smart Edu Hub - Daftar Kartu (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Daftar Kartu Web](<docs/bukti/Screenshot/Smart Edu Hub - Daftar Kartu (1).png>) | ![Daftar Kartu Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Daftar Kartu.png>) |
 
 - Rekap laporan keuangan
 
-  ![Rekap Laporan Keuangan](<docs/bukti/Screenshot/Smart Edu Hub - Rekap Laporan Keuangan.png>) ![Rekap Laporan Keuangan 2](<docs/bukti/Screenshot/Smart Edu Hub - Rekap Laporan Keuangan (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Rekap Laporan Keuangan Web](<docs/bukti/Screenshot/Smart Edu Hub - Rekap Laporan Keuangan.png>) | ![Rekap Laporan Keuangan Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Rekap Laporan Keuangan (1).png>) |
 
 - Bukti transaksi top-up
 
@@ -308,11 +324,15 @@ Tangkapan layar untuk setiap langkah alur inti tersedia di folder `docs/bukti/Sc
 **Alur Dashboard Admin:**
 - Data siswa
 
-  ![Data Siswa](<docs/bukti/Screenshot/Smart Edu Hub - Data Siswa.png>) ![Data Siswa 2](<docs/bukti/Screenshot/Smart Edu Hub - Data Siswa (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Data Siswa Web](<docs/bukti/Screenshot/Smart Edu Hub - Data Siswa (1).png>) | ![Data Siswa Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Data Siswa.png>) |
 
 - Manajemen user
 
-  ![Management User](<docs/bukti/Screenshot/Smart Edu Hub - Management User.png>) ![Management User 2](<docs/bukti/Screenshot/Smart Edu Hub - Management User (1).png>)
+| Tampilan Web | Tampilan Mobile |
+| :---: | :---: |
+| ![Management User Web](<docs/bukti/Screenshot/Smart Edu Hub - Management User.png>) | ![Management User Mobile](<docs/bukti/Screenshot/Smart Edu Hub - Management User (1).png>) |
 ---
 
 ## 5. Cara Menjalankan Pengujian
