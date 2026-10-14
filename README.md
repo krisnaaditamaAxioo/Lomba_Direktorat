@@ -217,7 +217,7 @@ Tangkapan layar untuk setiap langkah alur inti disimpan di folder `docs/bukti/`.
 
 | Tampilan Web | Tampilan Mobile |
 | :---: | :---: |
-| ![Formulir Pendaftaran 1](docs/bukti/Screenshot/pendaftaran-1.png) | ![Formulir Pendaftaran 2](docs/bukti/Screenshot/pendaftaran-2.png) |
+| ![Formulir Pendaftaran 1](docs/bukti/Screenshot/pendaftaran.png) | ![Formulir Pendaftaran 2](docs/bukti/Screenshot/pendaftaran-2.png) |
 
 - Halaman pelacakan / proses pendaftaran
 
